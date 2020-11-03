@@ -28,8 +28,7 @@ Connect the brown wire to Pin 7 (GPIO4), red wire to Pin 9 (Ground) & the black 
 You will need to connect to your Pi from a terminal (Putty on Windows) and run the below command:
 *git clone https://github.com/dmanlfc/arcade1up.git
 
-<a href="https://github.com/orlandovald/arcade1up" </a>
-
+Info and more at: https://github.com/orlandovald/arcade1up
 
 
 <h2>  Hide console output on boot  </h2>
