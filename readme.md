@@ -25,7 +25,9 @@ Connect the black wire to Pin 5 (GPIO3) & the red wire to Pin 6 (Ground) of the 
 
 <h3> Volume switch </h3>
 Connect the brown wire to Pin 7 (GPIO4), red wire to Pin 9 (Ground) & the black wire to Pin 11 (GPIO17) of the GPIO header.
+<br></br>
 You will need to connect to your Pi from a terminal (Putty on Windows) and run the below command:
+<br></br>
 *git clone https://github.com/dmanlfc/arcade1up.git
 
 Info and more at: https://github.com/orlandovald/arcade1up
