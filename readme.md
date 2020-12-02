@@ -33,6 +33,9 @@ You will need to connect to your Pi from a terminal (Putty on Windows) and run t
 Info and more at: https://github.com/orlandovald/arcade1up
 
 
+<h2> PI 4 images from Arcade Punks.com </h2>
+https://www.arcadepunks.com/download-raspberry-pi-4-images/
+
 <h2>  Hide console output on boot  </h2>
 Edit cmdline.text located at /boot/cmdline.text and change it to console=tty3
 
