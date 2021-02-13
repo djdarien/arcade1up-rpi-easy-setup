@@ -12,7 +12,7 @@
 
 
 
-<h2> Emulatation / ES Theme </h2>
+<h2> Emulation / ES Theme </h2>
 https://github.com/djdarien/arcade1up-rpi-easy-setup/blob/main/es-theme-super-arcade1up-5x4-master.zip
   Emulation Station theme is for 5x4 horizontal (Asteroids , Street Fighter, etc)
 
