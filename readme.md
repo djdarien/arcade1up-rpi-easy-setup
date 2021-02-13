@@ -52,3 +52,6 @@ Edit cmdline.text located at /boot/cmdline.text and change it to console=tty3
 
 <h2> Hide Raspbery Pi Logo on boot </h2>
 Also at cmdline.text located /boot/cmdline.text and add logo.nologo
+
+<h2> Vertical Screen setup (For Pac-Man, Galaga cabs,etc) </h2>
+Edit and change config.txt located at /boot/config.txt and copy/replace to display_rotate=3
